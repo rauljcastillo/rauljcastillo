@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hello, I'm Raul 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rauljcastillo)](https://github.com/rauljcastillo/github-readme-stats)
 <!--
 **rauljcastillo/rauljcastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
