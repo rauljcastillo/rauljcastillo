@@ -1,7 +1,7 @@
 # Hello, I'm Raul 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauljcastillo&theme=radical&layout=pie&langs_count=6&exclude_repo=LFP_Practica1_202001932)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rauljcastillo&show_icons=true&hide=prs&theme=merko)](https://github.com/rauljcastillo/github-readme-stats)
+
 
 <!--
 **rauljcastillo/rauljcastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
