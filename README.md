@@ -18,8 +18,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Backend-focused Software Developer with fullstack experience, specializing in building scalable services, APIs, and data-driven solutions. Strong interest in web scraping, information extraction, and automation for analytics and decision support.
+<h1 align="center">Hi, I'm Raul 👋</h1>
 
-Experienced with JavaScript, TypeScript, Python, and Go, as well as modern backend stacks using Node.js. Comfortable working with relational and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis), version control with Git, and containerized deployments using Docker, Nginx, and cloud platforms such as AWS and Google Cloud.
+<p align="center">
+  Backend-focused Software Developer with fullstack experience <br>
+  Building scalable APIs, data-driven systems and automation solutions
+</p>
 
-Passionate about clean architecture, performance optimization, and building reliable, production-ready systems.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
+
+---
+
+### 🛠 Tech Stack
+- JavaScript / TypeScript / Python / Go
+- Node.js, REST APIs, Web Scraping
+- MySQL, PostgreSQL, MongoDB, DynamoDB, Redis
+- Docker, Nginx, AWS, Google Cloud
+
+---
+
+### 🚀 Interests
+- Backend Architecture
+- Web Scraping & Information Extraction
+
+---
+
+### 📫 Let's connect
+- LinkedIn: www.linkedin.com/in/raúl-castillo-013b4a2a4
