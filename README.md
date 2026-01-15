@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Backend-focused Software Developer with fullstack experience, specializing in building scalable services, APIs, and data-driven solutions. Strong interest in web scraping, information extraction, and automation for analytics and decision support.
+
+Experienced with JavaScript, TypeScript, Python, and Go, as well as modern backend stacks using Node.js. Comfortable working with relational and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis), version control with Git, and containerized deployments using Docker, Nginx, and cloud platforms such as AWS and Google Cloud.
+
+Passionate about clean architecture, performance optimization, and building reliable, production-ready systems.
